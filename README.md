@@ -2,8 +2,6 @@
 
 some text
 
-meow
-
-## Not a Furry
+## DEMO2
 
 programmer, beep boop
